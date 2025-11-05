@@ -2,18 +2,6 @@
 
 ### Working Papers
 
-*Technology with unequal gains: Steamship and globalization* [slides](../assets/files/paper/steamship_extensive_slides.pdf)<br>
-<!-- [pdf ](../assets/files/paper/steamship_extensive.pdf)  -->
-December 2023 <br>
-JSCE IP Autumn 2022, UTokyo CREPE 2023
-
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-<div style="text-align: justify">
-Transportation technology allows more market integration. The benefit could be unequal due to the adoption of this technology. This paper studies the rapid adoption of steamships in the late 19th century and its effect on the First Globalization and the Great Divergence. For this, this paper uses a novel deep-learning method to digitize historical shipping data to analyze the transition from sailing to steamships and the change in worldwide shipping patterns. Using the change in duration, this paper shows that the advent of steamships increased trade and growth on average. However, colonized countries experienced insignificant gains. To understand the mechanism, this paper incorporates differences in shipping technology to trade with heterogeneous firms. The estimate points out that the advantage of steamships might not have been captured due to the high cost of adoption for trade links involving colonies. This provides further insights into how shipping technology affects economic activity through trade and how the fixed cost of adoption matters in gains from such technology.
-</div>
-</details>
-
 *Diffusion of war through arms trade* [pdf](../assets/files/paper/weapon_network.pdf)<br>
 October 2023
 
@@ -57,7 +45,19 @@ The progress of science increasingly relies on machine learning (ML) and machine
 </div>
 </details>
 
-<!-- ### Others -->
+### Others
+
+*Technology with unequal gains: Steamship and globalization* [slides](../assets/files/paper/steamship_extensive_slides.pdf)<br>
+<!-- [pdf ](../assets/files/paper/steamship_extensive.pdf)  -->
+December 2023 <br>
+JSCE IP Autumn 2022, UTokyo CREPE 2023
+
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Transportation technology allows more market integration. The benefit could be unequal due to the adoption of this technology. This paper studies the rapid adoption of steamships in the late 19th century and its effect on the First Globalization and the Great Divergence. For this, this paper uses a novel deep-learning method to digitize historical shipping data to analyze the transition from sailing to steamships and the change in worldwide shipping patterns. Using the change in duration, this paper shows that the advent of steamships increased trade and growth on average. However, colonized countries experienced insignificant gains. To understand the mechanism, this paper incorporates differences in shipping technology to trade with heterogeneous firms. The estimate points out that the advantage of steamships might not have been captured due to the high cost of adoption for trade links involving colonies. This provides further insights into how shipping technology affects economic activity through trade and how the fixed cost of adoption matters in gains from such technology.
+</div>
+</details>
 
 <!-- *Agglomeration*  <br>
 Master's summer capstone under Professor Dave Donaldson <br>
