@@ -57,9 +57,9 @@ The progress of science increasingly relies on machine learning (ML) and machine
 </div>
 </details>
 
-### Others
+<!-- ### Others -->
 
-*Agglomeration*  <br>
+<!-- *Agglomeration*  <br>
 Master's summer capstone under Professor Dave Donaldson <br>
 
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -81,4 +81,4 @@ Using a pilot RCT study which made a portion of users switch their default searc
 
 *Uncovering the border‐crossing cost in transportation* <br>
 Group project by Sawada seminar (Univ. Tokyo) <br>
-JADE Youth Conference 2023 (by Tomoki Nishiyama)
+JADE Youth Conference 2023 (by Tomoki Nishiyama) -->
