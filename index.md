@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-(Last updated: August 2024)<br>
+(Last updated: August 2025)<br>
 
 <div style="text-align: justify">
 Hi! I am a Ph.D. student in Economics at <a href="https://economics.harvard.edu/">Harvard University</a> from fall 2024. I like to analyze networks (trade, transportation, and cities with full of exchanges) and historical events for understanding growth.
