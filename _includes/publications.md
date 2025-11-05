@@ -25,8 +25,9 @@ In recent decades the world has seen an increasing number of regional trade agre
 ### Published
 
 *Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308) [pdf](../assets/files/paper/covid_vsl.pdf)<br>
-S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies <br>
-[website](https://www.bicea.e.u-tokyo.ac.jp/) for covid-19 analysis in Japan
+S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies. <br>
+[Website](https://www.bicea.e.u-tokyo.ac.jp/) for covid-19 analysis in Japan <br>
+[Book](https://link.springer.com/book/10.1007/978-981-96-8066-5) compilation of COVID research in Japan
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
@@ -36,7 +37,7 @@ Health and macroeconomic outcomes varied substantially across prefectures in Jap
 </details>
 
 *Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) [pdf](../assets/files/paper/ml_team.pdf)<br>
-MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  <br>
+MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One.  <br>
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
